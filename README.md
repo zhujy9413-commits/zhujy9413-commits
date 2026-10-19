@@ -6,7 +6,7 @@
 
 爱鼓捣点小玩意的男人。
 
-✉️ [Email](mailto:zhujy9413@gmail.com) · 📱 公众号：小皮蛋oxo · 🌐 [Website](https://zhujy9413-commits.github.io/)
+✉️ [Email](mailto:zhujy9413@gmail.com) · 🌐 [Website](https://zhujy9413-commits.github.io/)
 
 ---
 
