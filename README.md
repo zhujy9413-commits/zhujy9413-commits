@@ -21,8 +21,8 @@
 
 ## About
 
-- 爱鼓捣点小玩意，探索 AI、小工具和有趣的想法
-- [小皮蛋的 AIPM 工作台](https://github.com/zhujy9413-commits/xiaopidan-aipm-workbench)作者，基于 DeepSeek Harness 定制
-- 公众号：小皮蛋oxo
+- 朱家毅，爱鼓捣点小玩意
+- 对 AI 应用、产品和效率工具感兴趣，喜欢动手尝试
+- 公众号「小皮蛋oxo」作者，记录自己的观察与思考
 
 ---
