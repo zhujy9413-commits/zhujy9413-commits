@@ -10,9 +10,19 @@
 
 ---
 
+## ✍️ Writing
+
+在公众号「小皮蛋oxo」记录 AI 应用、产品实践与使用思考。
+
+- [资料都给 AI 了，为什么还是做错？](https://mp.weixin.qq.com/s/a2-rKC17ZYztQA0qyGIXRA)
+- [AI 替我干活以后，谁来检查它干得对不对？](https://mp.weixin.qq.com/s/w00M8GqeNsKV732Do3eCMA)
+
+---
+
 ## About
 
-- 爱鼓捣点小玩意的男人
+- 爱鼓捣点小玩意，探索 AI、小工具和有趣的想法
+- [小皮蛋的 AIPM 工作台](https://github.com/zhujy9413-commits/xiaopidan-aipm-workbench)作者，基于 DeepSeek Harness 定制
 - 公众号：小皮蛋oxo
 
 ---
